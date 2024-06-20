@@ -15,7 +15,7 @@ This project automates the deployment of a static website hosted on AWS S3(Simpl
 ## Overview
 This project demonstrates how to set up a static website hosted on AWS S3 using Terraform. It includes Terraform scripts to provision necessary AWS resources.
 -----
-[!Alt text](/images/S3.png)
+![Alt text](/images/S3.png)
 
 
 ## Prerequisites
@@ -30,7 +30,7 @@ Before you begin, ensure you have the following:
 Instructions on setting up the project locally. Include steps such as:
 1. Clone the repository: 
    ```
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/aniket3004/AWS-S3-Static-Website.git
    ```
 2. Navigate into the directory:
    ```
@@ -66,10 +66,10 @@ Contributions are welcome! Please fork this repository and submit a pull request
 ## Running Website
 
 Index.html:
-[!Alt text](/images/image1.png)
+![Alt text](/images/image1.png)
 
 Error.html:
-[!Alt text](/images/image2.png)
+![Alt text](/images/image2.png)
 
 ---
 
