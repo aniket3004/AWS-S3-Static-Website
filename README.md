@@ -27,7 +27,7 @@ Before you begin, ensure you have the following:
 
 ## Getting Started
 
-Instructions on setting up the project locally. Include steps such as:
+Instructions on setting up the project locally:
 1. Clone the repository: 
    ```
    git clone https://github.com/aniket3004/AWS-S3-Static-Website.git
